@@ -1,3 +1,8 @@
+function showdiv(){
+    document.getElementById("preloader").style.visibility="hidden";
+}
+setTimeout("showdiv()", 1500); 
+
 
 var w = c.width = window.innerWidth,
     h = c.height = window.innerHeight,
