@@ -561,7 +561,7 @@ canvas#c {
     }
 }
 #preloader{
-    background: #faebd7 url(loader.gif) no-repeat center center;
+    background: #faebd7;
     height: 100vh;
     width: 100%;
     position: fixed;
