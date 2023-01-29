@@ -8,7 +8,7 @@ var w = c.width = window.innerWidth,
     hh = h / 2,
 
     opts = {
-        strings: ['I', 'Said', "Don't"],
+        strings: ['Chúc Mừng', 'Sinh Nhật', "Thanh Nhàn"],
         charSize: 120,
         charSpacing: 120,
         lineHeight: 120,
