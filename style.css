@@ -108,7 +108,7 @@ div#sea {
     position: absolute;
     color: #fff;
     width: 100%;
-    content: "Don't click!";
+    content: "click me";
     left: 0;
     bottom: 0;
     font-size: 50px;
