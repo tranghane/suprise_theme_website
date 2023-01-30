@@ -574,4 +574,10 @@ canvas#c {
     margin-left: auto;
     margin-right: auto;
     margin-top: 200px;
+    animation: fadeOut 1.5s;
+}
+@keyframes fadeOut {
+    from{opacity: 1}
+    to{opacity:0}
+  
 }
