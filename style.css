@@ -108,7 +108,7 @@ div#sea {
     position: absolute;
     color: #fff;
     width: 100%;
-    content: "click me";
+    content: "click!";
     left: 0;
     bottom: 0;
     font-size: 50px;
@@ -506,6 +506,9 @@ canvas#c {
 }
 
 
+
+
+
 #balloon-container {
     height: 100vh;
     padding: 1em;
@@ -560,4 +563,3 @@ canvas#c {
         opacity: 0;
     }
 }
-
